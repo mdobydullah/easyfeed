@@ -10,6 +10,13 @@
 EasyFeed is a simple PHP package to create and read RSS & Atom feed specially for Laravel
 </p>
 
+<p align="center">
+[![Latest Stable Version](https://poser.pugx.org/obydul/easyfeed/v/stable)](https://packagist.org/packages/obydul/easyfeed)
+[![Total Downloads](https://poser.pugx.org/obydul/easyfeed/downloads)](https://packagist.org/packages/obydul/easyfeed)
+[![Latest Unstable Version](https://poser.pugx.org/obydul/easyfeed/v/unstable)](https://packagist.org/packages/obydul/easyfeed)
+[![License](https://poser.pugx.org/obydul/easyfeed/license)](https://packagist.org/packages/obydul/easyfeed)
+</p>
+
 > This project is under active development. Any feedback or contributions would be appreciated.
 
 ## Quick Start
