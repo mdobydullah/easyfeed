@@ -10,12 +10,27 @@
 EasyFeed is a simple PHP package to create and read RSS & Atom feed specially for Laravel
 </p>
 
-> This project is under active development. Any feedback or contributions would be appreciated.
+<p align="center">
+  <a title="Latest Stable Version" href="https://packagist.org/packages/obydul/easyfeed">
+    <img src="https://poser.pugx.org/obydul/easyfeed/v/stable">
+  </a>
+  <a title="Latest Stable Version" href="https://packagist.org/packages/obydul/easyfeed">
+    <img src="https://poser.pugx.org/obydul/easyfeed/v/unstable">
+  </a>
+  <a title="PHP from Packagist" href="https://packagist.org/packages/obydul/easyfeed">
+    <img src="https://img.shields.io/packagist/php-v/obydul/easyfeed">
+  </a>
+  <a title="License" href="LICENSE">
+    <img src="https://poser.pugx.org/obydul/easyfeed/license">
+  </a>
+  <a title="Follow on Twitter" href="https://twitter.com/obydulsa">
+    <img src="https://img.shields.io/twitter/follow/obydulsa?label=Follow&style=social">
+  </a>
+  <br>
+  <br>
+</p>
 
-[![Latest Stable Version](https://poser.pugx.org/obydul/easyfeed/v/stable)](https://packagist.org/packages/obydul/easyfeed)
-[![Total Downloads](https://poser.pugx.org/obydul/easyfeed/downloads)](https://packagist.org/packages/obydul/easyfeed)
-[![Latest Unstable Version](https://poser.pugx.org/obydul/easyfeed/v/unstable)](https://packagist.org/packages/obydul/easyfeed)
-[![License](https://poser.pugx.org/obydul/easyfeed/license)](https://packagist.org/packages/obydul/easyfeed)
+> This project is under active development. Any feedback or contributions would be appreciated.
 
 ## Quick Start
 
@@ -35,7 +50,7 @@ In your `config/app.php` add following:
 ```php
 'providers' => [
     ...
-     Obydul\EasyFeed\EasyFeedServiceProvider::class, // Add this line
+    Obydul\EasyFeed\EasyFeedServiceProvider::class, // Add this line
 [,
 
 'aliases' => [
