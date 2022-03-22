@@ -23,8 +23,8 @@ EasyFeed is a simple PHP package to create and read RSS & Atom feed specially fo
   <a title="License" href="LICENSE">
     <img src="https://poser.pugx.org/obydul/easyfeed/license">
   </a>
-  <a title="Follow on Twitter" href="https://twitter.com/obydulme">
-    <img src="https://img.shields.io/twitter/follow/obydulme?label=Follow&style=social">
+  <a title="Follow on Twitter" href="https://twitter.com/obyydul">
+    <img src="https://img.shields.io/twitter/follow/obyydul?label=Follow&style=social">
   </a>
   <br>
   <br>
